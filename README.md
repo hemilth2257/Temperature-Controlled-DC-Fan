@@ -25,5 +25,18 @@ The system progressed from a dense breadboard prototype to a fully routed custom
 * `dc_fan_controller.ino`: The main Arduino C++ source code.
 * `microproject_sem2_fixed.pdf`: Full engineering project report, including circuit analysis, KiCad schematics, and testing methodologies.
 
+## 📸 Circuit & PCB Design
+
+Here is the complete circuit schematic designed in KiCad:
+
+![KiCad Schematic](Images/schematic.PNG)
+
+Here is the 3D render of the final routed board:
+
+![3D PCB Render](Images/pcb 3d.PNG)
+
+And here is the 2D copper track layout showing the strict 45-degree routing:
+
+![2D Copper Routing](Images/pcb.PNG)
 ##  Author
 **Hemil Thakkar & Het Dave** Electronics Engineering Students at BVM Engineering College.
