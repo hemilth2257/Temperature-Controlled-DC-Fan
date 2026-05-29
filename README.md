@@ -33,7 +33,7 @@ Here is the complete circuit schematic designed in KiCad:
 
 Here is the 3D render of the final routed board:
 
-![3D PCB Render](Images/3d_render.png)
+![3D PCB Render](images/pcb 3d.PNG)
 
 And here is the 2D copper track layout showing the strict 45-degree routing:
 
