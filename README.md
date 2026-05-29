@@ -29,14 +29,14 @@ The system progressed from a dense breadboard prototype to a fully routed custom
 
 Here is the complete circuit schematic designed in KiCad:
 
-![KiCad Schematic](Images/schematic.PNG)
+![KiCad Schematic](images/schematic.PNG)
 
 Here is the 3D render of the final routed board:
 
-![3D PCB Render](images/pcb 3d.PNG)
+![3D PCB Render](Images/3d_render.png)
 
 And here is the 2D copper track layout showing the strict 45-degree routing:
 
-![2D Copper Routing](Images/pcb.PNG)
+![2D Copper Routing](images/pcb.PNG)
 ##  Author
 **Hemil Thakkar & Het Dave** Electronics Engineering Students at BVM Engineering College.
