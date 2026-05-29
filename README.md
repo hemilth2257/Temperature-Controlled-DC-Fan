@@ -26,4 +26,4 @@ The system progressed from a dense breadboard prototype to a fully routed custom
 * `microproject_sem2_fixed.pdf`: Full engineering project report, including circuit analysis, KiCad schematics, and testing methodologies.
 
 ##  Author
-**Hemil Thakkar** Electronics Engineering Student at BVM Engineering College.
+**Hemil Thakkar & Het Dave** Electronics Engineering Students at BVM Engineering College.
